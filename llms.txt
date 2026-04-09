@@ -1,0 +1,21 @@
+# Serp Download
+
+> Serp Download is a test multisite deployment for downloadable software and utility products, built from the shared website core.
+
+## Main pages
+- [Home](https://serp.download)
+- [Docs](https://serp.download/docs)
+- [Guides](https://serp.download/guides)
+- [Articles](https://serp.download/articles)
+- [Features](https://serp.download/features)
+- [Compare](https://serp.download/compare)
+- [For](https://serp.download/for)
+
+## Pricing
+- [Pricing](https://serp.download/pricing)
+
+## Source
+- [GitHub](https://github.com/serptest/serp-download)
+
+## Optional
+- [Full docs for LLMs](https://serp.download/llms-full.txt)

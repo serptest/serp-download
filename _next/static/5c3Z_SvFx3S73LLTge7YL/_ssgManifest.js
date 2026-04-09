@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F[...pages]","\u002Farticles\u002F[articleSlug]","\u002Fcompare\u002F[slug]","\u002Fdocs\u002F[[...slug]]","\u002Ffeatures\u002F[slug]","\u002Ffor\u002F[slug]","\u002Fguides\u002F[guideSlug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

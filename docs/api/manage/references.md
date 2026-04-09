@@ -1,0 +1,23 @@
+## Authentication
+
+Requires a `root` client. See the [Authentication](/docs/api/authentication) guide.
+
+## Base URL
+
+```
+https://api.openpanel.dev/manage/references
+```
+
+## What are references?
+
+References are markers on your analytics timeline — useful for product launches, campaign start dates, feature releases, or any event you want to correlate with changes in your metrics.
+
+## Endpoints
+
+| Method | Path | Description |
+|--------|------|-------------|
+| `GET` | `/manage/references` | List all references (optionally filter by `projectId`) |
+| `GET` | `/manage/references/{id}` | Get a specific reference |
+| `POST` | `/manage/references` | Create a new reference |
+| `PATCH` | `/manage/references/{id}` | Update a reference |
+| `DELETE` | `/manage/references/{id}` | Delete a reference |

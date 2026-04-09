@@ -1,0 +1,21 @@
+## Authentication
+
+The Manage API requires a **root** client. Root clients have organization-wide access and can manage all resources. See the [Authentication](/docs/api/authentication) guide.
+
+## Base URL
+
+```
+https://api.openpanel.dev/manage
+```
+
+## Resources
+
+| Resource | Description |
+|----------|-------------|
+| Projects | Create, update, and delete analytics projects |
+| Clients | Manage API clients (read / write / root) and their secrets |
+| References | Mark important dates or events on your analytics timeline |
+
+## Rate limiting
+
+20 requests per 10 seconds per client.

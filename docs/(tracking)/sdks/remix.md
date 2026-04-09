@@ -1,0 +1,1 @@
+Use [script tag](/docs/sdks/script) or [Web SDK](/docs/sdks/web) for now. We'll add a dedicated remix sdk soon.
